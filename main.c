@@ -1,6 +1,8 @@
 #include<stdio.h>
 
+int numero = 2;
+
 main()
 {
-	printf("Ola mundo");
+	printf("Ola mundo %i\n", numero);
 }
